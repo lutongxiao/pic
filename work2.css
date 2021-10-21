@@ -1,0 +1,28 @@
+p{
+    color:tomato; 
+}
+
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+.page{
+    position: absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-color: violet;
+    z-index:-1;
+}
+
+.test{
+    width:2000px;
+    height:200px;
+    background-color: yellowgreen;
+}
+
